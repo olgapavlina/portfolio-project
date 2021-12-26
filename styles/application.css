@@ -191,6 +191,13 @@ footer .contact-box p {
     text-align: center;
     padding: 0;
   }
+  .content-container {
+    padding: 0 20px;
+  }
+  .content h1 {
+    font-size: 44px;
+    line-height: 56px;
+  }
   .project-description {
     padding: 0;
     text-align: center;
@@ -202,6 +209,6 @@ footer .contact-box p {
     padding: 30px;
   }
   .portfolio {
-    margin: 48px;
+    margin: 55px;
   }
 }
