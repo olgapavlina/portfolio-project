@@ -201,4 +201,7 @@ footer .contact-box p {
   footer .contact-box {
     padding: 30px;
   }
+  .portfolio {
+    margin: 48px;
+  }
 }
